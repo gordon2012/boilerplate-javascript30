@@ -1,24 +1,24 @@
 {
-  "name": "flexgallery",
+  "name": "boilerplate-javascript30",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --open",
     "build": "webpack",
-    "deploy": "npm run build && surge build flexgallery.gordondoskas.com"
+    "deploy": "npm run build && surge build boilerplate-javascript30.gordondoskas.com"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gordon2012/flexgallery.git"
+    "url": "git+https://github.com/gordon2012/boilerplate-javascript30.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gordon2012/flexgallery/issues"
+    "url": "https://github.com/gordon2012/boilerplate-javascript30/issues"
   },
-  "homepage": "https://github.com/gordon2012/flexgallery#readme",
+  "homepage": "https://github.com/gordon2012/boilerplate-javascript30#readme",
   "devDependencies": {
     "css-loader": "^0.26.1",
     "extract-text-webpack-plugin": "^2.0.0-rc.2",

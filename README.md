@@ -1,3 +1,3 @@
-# Flex Gallery
+# Boilerplate: Javascript 30
 
-An image gallery made with flexible panels
+A boilerplate for Javascript 30 projects
